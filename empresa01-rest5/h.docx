@@ -1,3 +1,11 @@
 Atividade 5 rest 
 
 ensina  main.py 
+
+so para guardar: 
+ passo 1: 
+ python -m venv venv_empresa
+ passo 2: 
+ venv_empresa\Scripts\activate.bat
+ passo 3:
+ pip install flask
