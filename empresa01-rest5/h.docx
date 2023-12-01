@@ -7,13 +7,13 @@ so para guardar:
  python -m venv venv_empresa
 
  passo 2: 
- venv_empresa\Scripts\activate.bat
+ venv_empresa08-rest12\Scripts\activate.bat
 
  passo 3:
  pip install flask
  
  passo 4:
- python main.py
+ python main03.py
  
  passo 5:
 venv_empresa\Scripts\deactivate.bat
